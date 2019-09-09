@@ -10260,7 +10260,7 @@ class About extends react__WEBPACK_IMPORTED_MODULE_0__["Component"] {
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!***************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fabout&absolutePagePath=%2FUsers%2Fshrinathnayak%2FRAFCode%2Freact-ssr%2Fpages%2Fabout.js ***!
   \***************************************************************************************************************************************/
@@ -10283,5 +10283,5 @@ module.exports = dll_129a35c7ec57967eb265;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=about.js.map
