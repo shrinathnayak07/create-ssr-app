@@ -1,0 +1,36 @@
+{
+  "presets": [
+    [
+      "next/babel",
+      {
+        "preset-env": {
+          "targets": {
+            "browsers": "> 5%"
+          }
+        }
+      }
+    ]
+  ],
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "root": ["./"],
+        "alias": {
+          "components": "./src/components",
+          "actions": "./src/actions",
+          "helpers": "./src/helpers",
+          "services": "./src/services",
+          "store": "./store",
+          "assets": "./static"
+        }
+      }
+    ],
+    [
+      "import",
+      {
+        "libraryName": "antd"
+      }
+    ]
+  ]
+}
