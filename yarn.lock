@@ -4224,9 +4224,9 @@ node-pre-gyp@^0.12.0:
     tar "^4"
 
 node-releases@^1.1.29:
-  version "1.1.29"
-  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.29.tgz#86a57c6587a30ecd6726449e5d293466b0a0bb86"
-  integrity sha512-R5bDhzh6I+tpi/9i2hrrvGJ3yKPYzlVOORDkXhnZuwi5D3q1I5w4vYy24PJXTcLk9Q0kws9TO77T75bcK8/ysQ==
+  version "1.1.30"
+  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.30.tgz#35eebf129c63baeb6d8ddeda3c35b05abfd37f7f"
+  integrity sha512-BHcr1g6NeUH12IL+X3Flvs4IOnl1TL0JczUhEZjDE+FXXPQcVCNr8NEPb01zqGxzhTpdyJL5GXemaCW7aw6Khw==
   dependencies:
     semver "^5.3.0"
 
@@ -5145,9 +5145,9 @@ rc-notification@~3.3.1:
     rc-util "^4.0.4"
 
 rc-pagination@~1.20.5:
-  version "1.20.5"
-  resolved "https://registry.yarnpkg.com/rc-pagination/-/rc-pagination-1.20.5.tgz#b64395a702e9fc452e26d0e491ccf7d9345309f7"
-  integrity sha512-gnVAowVIbRilW6bXYWCEpTsrtmAWTpM3qO/bltYfqTVKxgb6/sDqjRvCksJGy/D81pYkEkKeA9foWsgUgbUsQw==
+  version "1.20.6"
+  resolved "https://registry.yarnpkg.com/rc-pagination/-/rc-pagination-1.20.6.tgz#7c717084f1222c9c6475d9a53dec314f607f8152"
+  integrity sha512-FFgC/3RjGI0O8iA4hgTkDpdmggV56P0by59ifIvZU9C1ovimWNhwA601Zjemp4xyFI5WF/SXuZuFeVDADRWs5g==
   dependencies:
     babel-runtime "6.x"
     classnames "^2.2.6"
@@ -5239,9 +5239,9 @@ rc-table@~6.7.0:
     warning "^3.0.0"
 
 rc-tabs@~9.6.4:
-  version "9.6.6"
-  resolved "https://registry.yarnpkg.com/rc-tabs/-/rc-tabs-9.6.6.tgz#1378aae0e4a04d6c3f2bd61bfcb7f28a7ef3807f"
-  integrity sha512-8Vs4tLZKQODl72RetTNm+yVOuboAhtJlvf9fbxWJ4WiYuzMxU7Y8RZ8yVNDGt3+4WzCJUI53CtobptBWwcUkDA==
+  version "9.6.7"
+  resolved "https://registry.yarnpkg.com/rc-tabs/-/rc-tabs-9.6.7.tgz#c546115a351f5ed779ea5524143157f48ee0c015"
+  integrity sha512-OXbDOgaqv2MGK9QaDi6cdva6bNz3XGw+M9BHQpm1gTGmVQEGx5VcclDClH/3xobIzooxy8hrxg/s0rTlgDnC2w==
   dependencies:
     "@ant-design/create-react-context" "^0.2.4"
     babel-runtime "6.x"
